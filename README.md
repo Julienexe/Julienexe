@@ -1,5 +1,5 @@
 # 💫 About Me:
-Currently working on web and mobile development <br>I plan on learning and collaborating in machine learning <br>My favorite language is Python <br>I am currently learning JavaScript 
+Currently working on web and mobile development, data analysis, embedded Systems and Machine Learning<br>I plan on learning and collaborating in machine learning <br>My favorite language is Python <br>I am currently learning JavaScript 
 
 
 ## 🌐 Socials:
